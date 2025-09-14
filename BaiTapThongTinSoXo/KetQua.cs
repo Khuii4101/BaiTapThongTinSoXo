@@ -12,5 +12,6 @@ namespace BaiTapThongTinSoXo
         public string Giai { get; set; }
         public string SoTrung { get; set; }
         public DateTime Ngay { get; set; }
+        public string Tinh { get; set; }
     }
 }
